@@ -14,3 +14,18 @@
 12c. student.greeting
 12d. student["Favorite Teacher"].name
 12e. courseload[0]
+13a. 5
+13b. 1
+13c. 3
+13d. 3
+13e. 4
+13f. 0
+13g. 3 + NaN
+13h. 3 - NaN
+14a. True
+14b. True
+14c. True
+14d. False
+14e. False
+14f. False
+15. == allows conversion of the two comparators, === doesn't allow the conversion of the two comparators.
